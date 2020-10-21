@@ -17,4 +17,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 /*Rutas Admiciones */
-Route::get('/Admiciones/Administracion' , 'NavegadorControlle@Administracion');
+Route::get('Administracion' , 'AdmisionesController@Administracion');
