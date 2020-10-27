@@ -9,7 +9,7 @@ class AdmisionesController extends Controller
 
     function Administracion()
     {
-        return view ('Admisiones/Administracion/LGrupo.blade.php');
+        return view ('admisiones\administracion\lgrupo.blade.php');
     }
 
 }
