@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 class AdmisionesController extends Controller
 {    
 
-    function Administracion()
+    function Index()
     {
         return view ('Admisiones/Administracion/LGrupo.blade.php');
     }

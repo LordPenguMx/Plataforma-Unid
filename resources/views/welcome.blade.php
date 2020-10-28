@@ -14,7 +14,7 @@
         <ul>
             <li><a href="#">Admisiones<i class="icon ion-md-arrow-dropdown"></i></a>
                     <ul>
-                        <li><a>Administracion<i class="icon ion-md-arrow-dropdown"></i></a>
+                        <li><a>Administracion</a>
                             <ul id="submenu">
                                 <li><a href="/Admisiones/Administracion/NGrupo.blade.php">Nuevo Grupo</a></li>
                                 <li><a href="#">Lista de Grupos</a></li>
