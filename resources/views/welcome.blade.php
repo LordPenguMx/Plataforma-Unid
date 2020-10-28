@@ -154,7 +154,8 @@
                         <li><a href="#">Asistencia</a></li>
                         <li><a href="#">Documentos</a></li>
                         <li><a href="#">Pagos</a></li>
-                        <li><a href="#">Cartera</a></li> 
+                        <li><a href="#">Cartera</a></li>
+                        <li><a href="#">Reportes</a></li> 
                 </ul>
             </li> 
         <h3 style="text-align:right"> Salir </h3> 
