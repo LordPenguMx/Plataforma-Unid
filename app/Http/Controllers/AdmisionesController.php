@@ -7,9 +7,9 @@ use Illuminate\Http\Request;
 class AdmisionesController extends Controller
 {    
 
-    function Index()
+    function Administracion()
     {
-        return view ('admisiones\administracion\lgrupo.blade.php');
+        return view ('admisiones.administracion.lgrupo');
     }
 
 }

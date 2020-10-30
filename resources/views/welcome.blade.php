@@ -16,7 +16,7 @@
                     <ul>
                         <li><a>Administracion</a>
                             <ul id="submenu">
-                                <li><a href="/Admisiones/Administracion/NGrupo.blade.php">Nuevo Grupo</a></li>
+                                <li><a href="{{ 'Admisiones/Administracion/lgrupo.blade.php' }}">Nuevo Grupo</a></li>
                                 <li><a href="#">Lista de Grupos</a></li>
                                 <li><a href="#">Resetear Reportes</a></li>
                             </ul>
