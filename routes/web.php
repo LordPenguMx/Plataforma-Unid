@@ -19,3 +19,4 @@ Route::get('/', function () {
 /*Rutas Admiciones */
 
 Route::get('/administracion' , 'App\Http\Controllers\AdmisionesController@Administracion');
+Route::view('/administracion/NGrupo', 'NGrupo')->name('NuevoGrupo');
